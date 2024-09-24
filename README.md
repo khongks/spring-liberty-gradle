@@ -26,3 +26,7 @@
    ```
    podman run -p 9080:9080 -p 9443:9443 -it spring-liberty-gradle:1.0-SNAPSHOT
    ```
+
+## Reference
+
+- https://openliberty.io/blog/2024/05/01/spring-boot-3.html
