@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "Hello from Spring Boot in Open Liberty!";
+        return "Hello from Spring Boot in Open Liberty v2!";
     }
 
 }
